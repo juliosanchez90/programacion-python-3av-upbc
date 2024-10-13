@@ -13,7 +13,7 @@ while contador<10:
     r=int(input("que mas sigue?: "))
     try:
         if r>contador and r<contador2:
-            print(f"{r} elefantes de columpiaban")
+            print(f"{r} elefantes SE columpiaban")
             contador+=1
             contador2+=1
         else:
